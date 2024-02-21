@@ -56,10 +56,6 @@ td {
 }
 
 @media (max-width: 550px) {
-    body {
-        padding-right: 19px;
-    }
-
     td {
         font-size: 18px;
     }
